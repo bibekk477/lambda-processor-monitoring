@@ -109,7 +109,7 @@ This project demonstrates AWS serverless best practices locally using LocalStack
 ## 📁 Project Structure
 
 ```
-localstack-image-processor/
+lambda-processor-monitoring/
 ├── lambda/
 │   ├── lambda_function.py       # Enhanced Lambda with structured logging
 │   └── requirements.txt         # Python dependencies (Pillow)
